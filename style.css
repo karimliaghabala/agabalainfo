@@ -1,0 +1,60 @@
+
+body 
+{
+    background-image: url(greg-rosenke-6QnEf_b47eA-unsplash.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+/*index*/
+.esas .daxili a:hover
+{
+    background: #ff6e00;
+    border-radius: 2px;
+
+}
+.esas .daxili a:visited
+{
+    background: #04e9dd;
+    border-radius: 2px;
+}
+
+
+/*elaqe*/
+.esas .daxili1 a:hover
+{
+    background: #ff6e00;
+    border-radius: 2px;
+
+}
+.esas .daxili2 a:hover
+{
+    background: #58bdec;
+    border-radius: 2px;
+
+}
+.esas .daxili1 a:visited
+{
+    background:#04e9dd;
+    border-radius: 2px;
+
+}
+.esas .daxili2 a:visited
+{
+    background: #04e9dd;
+    border-radius: 2px;
+
+}
+
+/*sheherim*/
+.davami:hover
+{
+    background: #ff6e00;
+    border-radius: 2px;
+
+}
+.davami:visited
+{
+    background: #04e9dd;
+    border-radius: 2px;
+
+}
